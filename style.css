@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-color: blanchedalmond;
+    padding: 290px;
+}
+
+h1 {
+    text-decoration: underline;
+}
+
+img {
+    height: 250px;
+    width: 200px;
+}
+
+h3 {
+    font-family: monospace;
+    font-size: 20px;
+    color: darkviolet;
+    font-weight: 800;
+}
